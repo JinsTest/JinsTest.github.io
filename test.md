@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Test
+sidebar_link: true
 ---
 
 ## Welcome to GitHub Pages
